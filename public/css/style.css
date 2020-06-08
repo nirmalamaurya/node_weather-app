@@ -1,0 +1,39 @@
+body{
+    color:gre#333333;
+    border-color: coral;
+    border-width: 3px;
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+  
+}
+
+h1{
+    color:grey;
+    margin-bottom: 16px;
+    font-size: 40px;
+}
+
+footer{
+    color:#888888;
+    border-top: 1px solid #eeeeeeee;
+    margin-top: 16px ;
+}
+
+header{
+margin-top: 16px;
+margin-bottom: 48px;
+}
+
+header a{
+
+    margin-right: 16px;
+    color: #88888888;
+}
+
+.potrait{
+    width: 250px;
+}
+.main-content{
+flex-grow: 1;
+}
